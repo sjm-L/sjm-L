@@ -12,9 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=sjm-L&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=I+write+what+I+learn.;I+build+small+projects+to+understand+better.;Currently+learning+Java%2C+Spring+Boot%2C+Frontend." alt="Typing intro" />
 </p>
+-->
 
 ---
 
