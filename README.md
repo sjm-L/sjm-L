@@ -1,24 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:14B8A6&height=150&section=header&text=jm&fontSize=42&fontColor=FFFFFF&fontAlignY=45" width="100%" alt="Profile banner" />
-</p>
+<a href="https://www.deep-c.dev">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+    <img src="./assets/banner.svg" width="100%" alt="jm — 배우고, 만들고, 기록합니다." />
+  </picture>
+</a>
 
-<p align="center">
-  <a href="https://www.deep-c.dev">
-    <img src="https://img.shields.io/badge/Blog-Deep%20C-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog" />
-  </a>
-  <a href="https://github.com/sjm-L">
-    <img src="https://img.shields.io/badge/GitHub-sjm--L-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=sjm-L&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views" />
-</p>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/ticker-light.svg" />
+    <img src="./assets/ticker.svg" width="100%" alt="Spring Boot, Java, HTML/CSS, SQL, Algorithm" />
+  </picture>
 
-<!--
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=I+write+what+I+learn.;I+build+small+projects+to+understand+better.;Currently+learning+Java%2C+Spring+Boot%2C+Frontend." alt="Typing intro" />
-</p>
--->
-
----
+<br />
+<br />
 
 <!--
 ## About Me
@@ -38,15 +31,15 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,react,nextjs,mysql,git,github,vercel&perline=6" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,ts,react,nextjs,mysql,git,github,vercel&perline=6&theme=dark" alt="Tech stack icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Java-0E0E0E?style=flat-square&logo=openjdk&logoColor=E63B1F" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-0E0E0E?style=flat-square&logo=springboot&logoColor=E63B1F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Next.js-0E0E0E?style=flat-square&logo=nextdotjs&logoColor=E63B1F" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-0E0E0E?style=flat-square&logo=typescript&logoColor=E63B1F" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL-0E0E0E?style=flat-square&logo=mysql&logoColor=E63B1F" alt="MySQL" />
 </p>
 
 ---
@@ -87,48 +80,24 @@ Markdown 기반으로 운영하는 개인 기술 블로그입니다.
 ---
 -->
 
-## Blog Notes
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/h-streak-light.svg" />
+    <img src="./assets/h-streak.svg" width="100%" alt="01 GitHub Streak" />
+  </picture>
 
-최근에는 학습한 내용을 아래 주제로 정리하고 있습니다.
+<br />
 
-- Spring Boot 입문과 기본 구조
-- Java 기초 문법
-- HTML/CSS 기본 개념
-- SQL 문제 풀이
-- 알고리즘 사고 과정 정리
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sjm-L&disable_animations=true&hide_border=true&border_radius=12&ring=E63B1F&fire=E63B1F&currStreakLabel=E63B1F&background=00000000&currStreakNum=0E0E0E&sideNums=0E0E0E&sideLabels=6D7477&dates=6D7477&stroke=D8DEE0" />
+  <img src="https://streak-stats.demolab.com?user=sjm-L&disable_animations=true&hide_border=true&border_radius=12&ring=E63B1F&fire=E63B1F&currStreakLabel=E63B1F&background=00000000&currStreakNum=F0F4F5&sideNums=F0F4F5&sideLabels=9AA1A4&dates=9AA1A4&stroke=30363D" width="100%" alt="GitHub streak" />
+</picture>
 
-<p align="center">
-  <a href="https://www.deep-c.dev">
-    <img src="https://img.shields.io/badge/Read%20My%20Blog-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Read my blog" />
-  </a>
-</p>
+<br />
+<br />
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjm-L&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjm-L&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sjm-L&theme=tokyonight&hide_border=true&border_radius=10" width="96%" alt="GitHub streak" />
-</p>
-
----
-
-## Contact
-
-<p align="center">
-  <a href="https://github.com/sjm-L">
-    <img src="https://img.shields.io/badge/GitHub-sjm--L-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.deep-c.dev">
-    <img src="https://img.shields.io/badge/Blog-Deep%20C-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2563EB,100:0F172A&height=90&section=footer" width="100%" alt="Footer banner" />
-</p>
+<a href="https://www.deep-c.dev">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
+    <img src="./assets/footer.svg" width="100%" alt="Deep C — deep-c.dev" />
+  </picture>
+</a>
