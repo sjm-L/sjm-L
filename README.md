@@ -1,7 +1,7 @@
 <a href="https://www.deep-c.dev">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
-    <img src="./assets/banner.svg" width="100%" alt="jm — 배우고, 만들고, 기록합니다." />
+    <img src="./assets/banner.svg" width="100%" alt="jm" />
   </picture>
 </a>
 
@@ -81,8 +81,24 @@ Markdown 기반으로 운영하는 개인 기술 블로그입니다.
 -->
 
 <picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h-stack-light.svg" />
+  <img src="./assets/h-stack.svg" width="100%" alt="01 Stack" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
+  <img src="./assets/stack.svg" width="100%" alt="Stack: Java, Spring Boot, MySQL, Docker, Gradle, HTML, CSS, JavaScript, TypeScript, React, Next.js, Git, GitHub, IntelliJ IDEA, Vercel" />
+</picture>
+
+<br />
+<br />
+<br />
+
+<picture>
     <source media="(prefers-color-scheme: light)" srcset="./assets/h-streak-light.svg" />
-    <img src="./assets/h-streak.svg" width="100%" alt="01 GitHub Streak" />
+    <img src="./assets/h-streak.svg" width="100%" alt="02 GitHub Streak" />
   </picture>
 
 <br />
