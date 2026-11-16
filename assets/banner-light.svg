@@ -27,10 +27,6 @@
     <text class="t" x="0" y="28" font-size="13" font-weight="700" fill="#6d7477" letter-spacing="2.5">TECH BLOG</text>
     <text class="t" x="0" y="58" font-size="20" font-weight="700" fill="#0e0e0e">deep-c.dev</text>
   </g>
-  <g class="up" style="animation-delay: 0.12s">
-    <text class="t" x="400" y="28" font-size="13" font-weight="700" fill="#6d7477" letter-spacing="2.5">NOW LEARNING</text>
-    <text class="t" x="400" y="58" font-size="20" font-weight="700" fill="#0e0e0e">Java · Spring Boot</text>
-  </g>
   <rect class="draw" style="animation-delay: 0.30s" x="0" y="86" width="1200" height="1" fill="#d8dee0"/>
   <text class="t up" style="animation-delay: 0.45s" x="-8" y="296" font-size="250" font-weight="700" fill="#0e0e0e" letter-spacing="-14">jm</text>
   <rect class="pop1" style="animation-delay: 1.40s" x="262" y="252" width="44" height="44" fill="#e63b1f"/>

@@ -5,11 +5,6 @@
   </picture>
 </a>
 
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/ticker-light.svg" />
-    <img src="./assets/ticker.svg" width="100%" alt="Spring Boot, Java, HTML/CSS, SQL, Algorithm" />
-  </picture>
-
 <br />
 <br />
 
