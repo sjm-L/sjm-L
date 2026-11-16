@@ -110,23 +110,6 @@ Markdown 기반으로 운영하는 개인 기술 블로그입니다.
 
 <br />
 <br />
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/h-grass-light.svg" />
-  <img src="./assets/h-grass.svg" width="100%" alt="03 Contributions" />
-</picture>
-
-<br />
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/grass-light.svg" />
-  <img src="./assets/grass.svg" width="100%" alt="Contributions in the last year" />
-</picture>
-
-<br />
-<br />
 
 <a href="https://www.deep-c.dev">
   <picture>
